@@ -35,7 +35,6 @@ checkbox-ng==0.3
 checkbox-support==0.2
 click==6.6
 colorama==0.2.5
-defer==1.0.6
 defusedxml==0.6.0
 djangorestframework==3.10.3
 extras==0.0.3
