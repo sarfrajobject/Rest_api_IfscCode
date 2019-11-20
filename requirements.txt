@@ -48,7 +48,6 @@ importlib-metadata==0.23
 itsdangerous==0.24
 kombu==4.6.5
 kombu-sqlalchemy==1.1.0
-language-selector==0.1
 linecache2==1.0.0
 louis==2.5.3
 lxml==3.3.3
