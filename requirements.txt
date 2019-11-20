@@ -21,7 +21,6 @@ PyPDF2==1.26.0
 PyYAML==3.10
 SQLAlchemy==1.0.14
 SqlAlchemy-Enum-Tables==1.1.0
-Ubuntu-Make==17.03
 WTForms==2.0.2
 Werkzeug==0.9.6
 alembic==1.3.0
