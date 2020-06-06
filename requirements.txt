@@ -1,5 +1,5 @@
 Babel==2.3.4
-Django==2.0.2
+Django==2.2.13
 Flask==0.11.1
 Flask-Babel==0.11.1
 Flask-Gravatar==0.4.2
